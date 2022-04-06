@@ -9,4 +9,4 @@ All the app is created in the some component Home where we will add tasks and bu
 ```
 $ npm install
 ```
-$ npm run start`
+$ npm run start
